@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\DataTypes\26.debugExample\bin\Debug\netcoreapp3.1\26.debugExample.exe
+C:\Users\Bla\source\repos\DataTypes\26.debugExample\bin\Debug\netcoreapp3.1\26.debugExample.deps.json
+C:\Users\Bla\source\repos\DataTypes\26.debugExample\bin\Debug\netcoreapp3.1\26.debugExample.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\26.debugExample\bin\Debug\netcoreapp3.1\26.debugExample.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\26.debugExample\bin\Debug\netcoreapp3.1\26.debugExample.dll
+C:\Users\Bla\source\repos\DataTypes\26.debugExample\bin\Debug\netcoreapp3.1\26.debugExample.pdb
+C:\Users\Bla\source\repos\DataTypes\26.debugExample\obj\Debug\netcoreapp3.1\26.debugExample.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\DataTypes\26.debugExample\obj\Debug\netcoreapp3.1\26.debugExample.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\26.debugExample\obj\Debug\netcoreapp3.1\26.debugExample.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\26.debugExample\obj\Debug\netcoreapp3.1\26.debugExample.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\26.debugExample\obj\Debug\netcoreapp3.1\26.debugExample.dll
+C:\Users\Bla\source\repos\DataTypes\26.debugExample\obj\Debug\netcoreapp3.1\26.debugExample.pdb
+C:\Users\Bla\source\repos\DataTypes\26.debugExample\obj\Debug\netcoreapp3.1\26.debugExample.genruntimeconfig.cache
